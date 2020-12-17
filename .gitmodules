@@ -1,0 +1,3 @@
+[submodule "devblog/themes/diary"]
+	path = devblog/themes/diary
+	url = https://github.com/slapelachie/hugo-theme-diary.git
